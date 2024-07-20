@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: "cobol-parser-utp"
+
+server:
+  port: 8900
